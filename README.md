@@ -20,4 +20,3 @@ Click on bars to display conversion rates with USD on 2020-05-13.
 "EUR":0.9195402299,
 "AUD":1.5344367816,	
 "GBP":0.8114482759,	
-"JPY":106.924137931,
